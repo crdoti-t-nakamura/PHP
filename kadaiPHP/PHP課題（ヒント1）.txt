@@ -1,0 +1,15 @@
+
+・JavaScript経由で
+
+
+クリックしたとき
+・onclick = "submit.(3)";
+
+	function Submit(key) {
+	
+
+	○ value = "key";
+	
+	name = "id";
+	value = '○';
+

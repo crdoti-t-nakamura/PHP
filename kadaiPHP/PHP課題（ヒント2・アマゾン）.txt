@@ -1,0 +1,77 @@
+<div id="zg_critical">
+
+	<div class="zg_itemRow">
+		<div class="zg_item_normal">
+			<div class="zg_image zg_itemLeftDiv_normal">
+				<div class="zg_itemImage_normal">
+					<a  href="http://www.amazon.co.jp/%E9%AD%94%E6%B3%95%E7%A7%91%E9%AB%98%E6%A0%A1%E3%81%AE%E5%8A%A3%E7%AD%89%E7%94%9FSS-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E4%BD%90%E5%B3%B6%E5%8B%A4/dp/4048659529/ref=zg_bs_books_1
+">
+						<img src="http://ecx.images-amazon.com/images/I/61YmbTjv0QL._SL160_SL160_.jpg" alt="魔法科高校の劣等生SS (電撃文庫)" title="魔法科高校の劣等生SS (電撃文庫)" onload="if (typeof uet == 'function') { uet('af'); }"/>
+					</a>
+				</div>
+			</div>
+
+			<div class="zg_itemRightDiv_normal">
+				<div class="zg_rankLine">
+					<span class="zg_crown">
+						<img src="http://g-ec2.images-amazon.com/images/G/09/zeitgeist/ranking-crown-gold._CB303490120_.png"/>
+					</span>
+					<span class="zg_rankNumber">1.</span>
+					<span class="zg_rankMeta">
+						<span></span>11日間100位以内
+					</span>
+				</div>
+				
+				<div class="zg_title">
+				<a  href="http://www.amazon.co.jp/%E9%AD%94%E6%B3%95%E7%A7%91%E9%AB%98%E6%A0%A1%E3%81%AE%E5%8A%A3%E7%AD%89%E7%94%9FSS-%E9%9B%BB%E6%92%83%E6%96%87%E5%BA%AB-%E4%BD%90%E5%B3%B6%E5%8B%A4/dp/4048659529/ref=zg_bs_books_1
+">魔法科高校の劣等生SS (電撃文庫)</a>
+
+				</div>
+
+				<div class="zg_byline">
+
+					<a href="http://www.amazon.co.jp/%E4%BD%90%E5%B3%B6%E5%8B%A4/e/B00J216X7W/ref=ntt_athr_dp_pel_1">&#x4F50;&#x5CF6;&#x52E4;</a>, 石田可奈
+
+				</div>
+
+				<div class="zg_reviews">
+
+					<span class="zeitgeist4048659529">
+						<span class="a-declarative" data-action="a-popover" data-a-popover="{&quot;closeButton&quot;:&quot;false&quot;,&quot;max-width&quot;:&quot;700&quot;,&quot;position&quot;:&quot;triggerBottom&quot;,&quot;url&quot;:&quot;/review/widgets/average-customer-review/popover/ref=acr_zeitgeist__popover?ie=UTF8&amp;asin=4048659529&amp;colid=&amp;coliid=&amp;contextId=zeitgeist&amp;ref=acr_zeitgeist__popover&quot;}">
+							<a class="a-link-normal a-text-normal" href="http://www.amazon.co.jp/product-reviews/4048659529/ref=acr_zeitgeist_text?ie=UTF8&showViewpoints=1">
+								<i class="a-icon a-icon-star a-star-4"><span class="a-icon-alt">5つ星のうち 4.2</span></i>
+						    </a>
+						</span>
+						<span class="a-size-small">
+							(<a class="a-link-normal" href="http://www.amazon.co.jp/product-reviews/4048659529/ref=acr_zeitgeist_text?ie=UTF8&showViewpoints=1">5</a>)
+						</span>
+					</span>
+
+				</div>
+
+				<div class="zg_bindingPlatform">文庫</div>
+
+				<div class="zg_itemPriceBlock_normal">
+
+					<p class="priceBlock">
+						<strong>価格： </strong>
+						<span class="price"><b>￥ 659</b></span>
+					</p>
+
+					<p class="priceBlock">
+						<b>ポイント:</b>&nbsp;&nbsp;
+						<span style="color: #990000;">19pt (3%)</span>
+
+					</p>
+
+					<p class="priceBlock">
+						<a href="http://www.amazon.co.jp/gp/offer-listing/4048659529/ref=zg_bs_books_price?ie=UTF8&condition=new">新品の出品：5</a>
+						<span class="price">￥ 659</span>より
+					</p>
+
+				</div>
+			</div>
+			<div class="zg_clear"></div>
+		</div>
+	</div>
+</div>
